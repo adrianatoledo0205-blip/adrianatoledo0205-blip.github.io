@@ -1,0 +1,31 @@
+*{
+   margin: 0;
+   padding: 0; 
+   box-sizing: border-box;
+}
+
+header {
+
+    background-color: #880044;
+    color: white;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.family {
+    border-radius: 30px;
+}
+footer {
+    background-color: #FFADD6;
+    padding-top: 100px;
+}
+.centered {
+    text-align: center;
+
+}
+.intro {
+    max-width: 500px;
+    text-align: left;
+}
+h1 {font-family: Arial, Helvetica, sans-serif;}
+.Nancy{ max: width 500px;}
