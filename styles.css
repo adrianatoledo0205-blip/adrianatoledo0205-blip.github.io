@@ -1,6 +1,6 @@
 *{
-   margin: 0;
-   padding: 0; 
+   margin: 10;
+   padding: 10; 
    box-sizing: border-box;
 }
 
@@ -13,11 +13,11 @@ header {
     align-items: center;
 }
 .family {
-    border-radius: 30px;
+    border-radius: 50px;
 }
 footer {
     background-color: #FFADD6;
-    padding-top: 100px;
+    padding-top: 75px;
 }
 .centered {
     text-align: center;
